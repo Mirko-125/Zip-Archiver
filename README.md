@@ -1,2 +1,2 @@
 # Zip-Archiver
-A web server which archives selected files
+A web server that archives selected files
